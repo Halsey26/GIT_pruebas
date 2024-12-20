@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-# Título del dashboard
+# Título del dashboard prueba
 st.title("Dashboard de Prueba - Análisis Exploratorio")
 
 # url 
