@@ -7,7 +7,7 @@ import seaborn as sns
 st.title("Dashboard de Prueba - Demo2")
 
 # url 
-pwbi_url = 'https://app.powerbi.com/view?r=eyJrIjoiZGQwOGY4NDMtOWMzNi00YjU0LWFjZWUtNTlkOWU2ODFiODQ1IiwidCI6IjljNWM4NjYyLTFiZjUtNGU5NC1hODIwLTVlM2NhMTI2Zjc1MiIsImMiOjR9'
+pwbi_url = 'https://app.powerbi.com/view?r=eyJrIjoiNTIxMDdlNDctYjFmNS00MjFlLTk3OGUtZTA2ZmExZDFlOTMxIiwidCI6IjljNWM4NjYyLTFiZjUtNGU5NC1hODIwLTVlM2NhMTI2Zjc1MiIsImMiOjR9'
 
 
 st.markdown(
