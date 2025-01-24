@@ -9,7 +9,7 @@ st.set_page_config(page_title="Dashboard de Prueba - Demo2", layout="wide")
 import streamlit as st
 
 # Título del proyecto y dashboard
-st.markdown("# 📊 Análisis Estratégico de Restaurantes en los Estados Unidos")
+st.markdown("# 📊 Análisis Estratégico de Restaurantes en Florida - EE.UU")
 
 # Introducción
 st.markdown("""
@@ -28,7 +28,7 @@ st.markdown("""
             """)
 
 # URL del Power BI
-pbi_url = "https://app.powerbi.com/view?r=eyJrIjoiMDQ4MTRiZjMtMzA2ZS00MTEwLThhM2QtMmFmMzBkMjkzZjA0IiwidCI6IjljNWM4NjYyLTFiZjUtNGU5NC1hODIwLTVlM2NhMTI2Zjc1MiIsImMiOjR9&pageName=7701e774ca2abe2e8050"
+pbi_url = "https://app.powerbi.com/view?r=eyJrIjoiOTk5NzFiZTctZmFlMy00YWU0LWEyZDItZjc0MTUwYzUwYjY4IiwidCI6IjljNWM4NjYyLTFiZjUtNGU5NC1hODIwLTVlM2NhMTI2Zjc1MiIsImMiOjR9&pageName=7701e774ca2abe2e8050"
 
 st.components.v1.iframe(src=pbi_url, width=1000, height=700, scrolling=True)
 
